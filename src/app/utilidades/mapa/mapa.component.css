@@ -1,0 +1,11 @@
+div{
+    width: 100%;
+    height: 600px;
+    margin-bottom: 1rem;
+    position: absolute;
+}
+
+
+/* .leaflet-default-icon-path {
+    background-image: url(../../../assets/marker-shadow.png);
+} */
